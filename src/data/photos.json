@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Helado de Chocolate",
+        "url" : "helado1.webp",
+        "text" : "Dejate tentar por nuestros diferentes sabores y por la especialidad de la casa, el Chocolate IceCream."
+    },
+    {
+        "id": 2,
+        "name": "Frutales",
+        "url" : "helado2.png",
+        "text" : "Ademas de cremas, también nos especializamos en los helados frutales, para refrescar tus veranos."
+    },
+    {
+        "id": 3,
+        "name": "La Reina",
+        "url" : "helado3.png",
+        "text" : "La Reina de IceCream, la Frutilla a la crema."
+    },
+    {
+        "id": 4,
+        "name": "Cremas especiales",
+        "url" : "helado4.png",
+        "text" : "Además de clásicos como Chocolate y Dulce de Leche, también contamos con las Cremas especiales (Tiramisú, Tramontana, etc)"
+    },
+    {
+        "id": 5,
+        "name": "Cremas especiales",
+        "url" : "icecream1v2.jpg",
+        "text" : "Además de clásicos como Chocolate y Dulce de Leche, también contamos con las Cremas especiales (Tiramisú, Tramontana, etc)"
+    },
+    {
+        "id": 6,
+        "name": "Cremas especiales",
+        "url" : "icecream2v2.jpg",
+        "text" : "Además de clásicos como Chocolate y Dulce de Leche, también contamos con las Cremas especiales (Tiramisú, Tramontana, etc)"
+    },
+    {
+        "id": 7,
+        "name": "Cremas especiales",
+        "url" : "icecream3.jpg",
+        "text" : "Además de clásicos como Chocolate y Dulce de Leche, también contamos con las Cremas especiales (Tiramisú, Tramontana, etc)"
+    }
+]
+

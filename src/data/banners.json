@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Promo Frutas",
+        "url" : "icecream4.jpg",
+        "text1" : "De Lun a Mierc 20%",
+        "text2" : "en Frutales"
+    },
+    {
+        "id": 2,
+        "name": "Código ICE",
+        "url" : "icecream3.jpg",
+        "text1" : "Descuento del 10% con el código",
+        "text2" : "en Cremas Especiales"
+    },
+    {
+        "id": 3,
+        "name": "Dejate Tentar",
+        "url" : "icecream2v2.jpg",
+        "text1" : "Todos los días 5% Off",
+        "text2" : "Comprando en el local"
+    }
+]
+
